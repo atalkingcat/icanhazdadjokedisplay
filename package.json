@@ -1,0 +1,15 @@
+{
+  "name": "icanhasproxy",
+  "version": "1.0.0",
+  "description": "Proxy to icanhazdadjoke.com",
+  "main": "icanhazProxy.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "colors": "1.1.2"
+  }
+}
